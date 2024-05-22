@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iamhucong" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=iamhucong&show_icons=true&count_private=true" />
 </a>
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhucong&layout=compact&langs_count=10&hide=html,javascript,css,freemarker,PLpgsql,PLsql" />
