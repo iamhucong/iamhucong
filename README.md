@@ -1,6 +1,3 @@
-<a href="">
-    <img src="https://profile-counter.glitch.me/iamhucong/count.svg" />
-</a>
 
 ## Hi there 👋
 
