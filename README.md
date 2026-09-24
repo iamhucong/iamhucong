@@ -6,7 +6,6 @@
 
 <p>
   <a href="https://github.com/iamhucong?tab=followers"><img src="https://img.shields.io/github/followers/iamhucong?label=Followers&style=flat-square&logo=github&color=2F81F7" alt="GitHub followers" /></a>
-  <a href="https://github.com/iamhucong?tab=repositories"><img src="https://img.shields.io/github/stars/iamhucong?affiliations=OWNER&label=Stars&style=flat-square&logo=github&color=e3b341" alt="GitHub stars" /></a>
   <a href="https://github.com/iamhucong"><img src="https://komarev.com/ghpvc/?username=iamhucong&label=Profile%20views&style=flat-square&color=3fb950" alt="Profile views" /></a>
 </p>
 
@@ -31,13 +30,13 @@ Ideas for this section — uncomment and fill in the ones you like:
 
 <div align="center">
 
-<a href="https://github.com/iamhucong?tab=repositories">
+<a href="https://github.com/iamhucong">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamhucong&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&cache_seconds=86400" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=iamhucong&show_icons=true&include_all_commits=true&hide_border=true&theme=default&cache_seconds=86400" alt="GitHub stats" />
   </picture>
 </a>
-<a href="https://github.com/iamhucong?tab=repositories">
+<a href="https://github.com/iamhucong">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhucong&layout=compact&langs_count=10&hide=html,javascript,css,freemarker,plpgsql,plsql&hide_border=true&theme=github_dark&cache_seconds=86400" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhucong&layout=compact&langs_count=10&hide=html,javascript,css,freemarker,plpgsql,plsql&hide_border=true&theme=default&cache_seconds=86400" alt="Top languages" />
