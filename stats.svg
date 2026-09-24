@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="195" viewBox="0 0 340 195" role="img" aria-label="GitHub stats">
+<title>GitHub stats</title>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+  .title { font-size: 18px; font-weight: 600; fill: #2f81f7; }
+  .label { font-size: 14px; fill: #1f2328; }
+  .value { font-size: 14px; font-weight: 700; fill: #1f2328; }
+  .muted { font-size: 12px; fill: #656d76; }
+  .fade { opacity: 0; animation: fadein .6s ease-out forwards; }
+  @keyframes fadein { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="339" height="194" rx="6" fill="#ffffff"/>
+<text x="25" y="35" class="title">iamhucong's GitHub Stats</text>
+<g class="fade" style="animation-delay:150ms" transform="translate(25,70)"><path transform="translate(0,-12)" fill="#2f81f7" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/><text x="25" y="0" class="label">Commits (2026):</text><text x="220" y="0" class="value">37</text></g>
+<g class="fade" style="animation-delay:270ms" transform="translate(25,95)"><path transform="translate(0,-12)" fill="#2f81f7" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"/><text x="25" y="0" class="label">Pull requests:</text><text x="220" y="0" class="value">225</text></g>
+<g class="fade" style="animation-delay:390ms" transform="translate(25,120)"><path transform="translate(0,-12)" fill="#2f81f7" d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/><text x="25" y="0" class="label">Issues:</text><text x="220" y="0" class="value">86</text></g>
+<g class="fade" style="animation-delay:510ms" transform="translate(25,145)"><path transform="translate(0,-12)" fill="#2f81f7" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/><text x="25" y="0" class="label">Stars earned:</text><text x="220" y="0" class="value">0</text></g>
+<g class="fade" style="animation-delay:630ms" transform="translate(25,170)"><path transform="translate(0,-12)" fill="#2f81f7" d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"/><text x="25" y="0" class="label">Followers:</text><text x="220" y="0" class="value">4</text></g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="195" viewBox="0 0 340 195" role="img" aria-label="Top languages">
+<title>Top languages</title>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+  .title { font-size: 18px; font-weight: 600; fill: #58a6ff; }
+  .label { font-size: 14px; fill: #e6edf3; }
+  .value { font-size: 14px; font-weight: 700; fill: #e6edf3; }
+  .muted { font-size: 12px; fill: #8b949e; }
+  .fade { opacity: 0; animation: fadein .6s ease-out forwards; }
+  @keyframes fadein { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="339" height="194" rx="6" fill="#0d1117"/>
+<text x="25" y="35" class="title">Most Used Languages</text>
+<text x="25" y="100" class="muted">No public code yet — stay tuned.</text>
+</svg>

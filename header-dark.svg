@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="70" viewBox="0 0 600 70" role="img" aria-label="Hi there 👋 Wishing you a joyful life and lots of flow when you code.">
+<title>Hi there 👋 Wishing you a joyful life and lots of flow when you code.</title>
+<style>
+  @keyframes l0 {
+    0%, 0.00% { opacity: 0; transform: translateY(8px); }
+    4.00%, 29.33% { opacity: 1; transform: translateY(0); }
+    33.33%, 100% { opacity: 0; transform: translateY(-8px); }
+  }
+  .l0 { opacity: 0; animation: l0 9.0s ease-in-out infinite; }
+</style>
+<text class="l0" x="300" y="44" text-anchor="middle" style="font-family:'Fira Code',Consolas,monospace;font-size:24px;font-weight:500;fill:#58a6ff">Hi there 👋</text><style>
+  @keyframes l1 {
+    0%, 33.33% { opacity: 0; transform: translateY(8px); }
+    37.33%, 62.67% { opacity: 1; transform: translateY(0); }
+    66.67%, 100% { opacity: 0; transform: translateY(-8px); }
+  }
+  .l1 { opacity: 0; animation: l1 9.0s ease-in-out infinite; }
+</style>
+<text class="l1" x="300" y="44" text-anchor="middle" style="font-family:'Fira Code',Consolas,monospace;font-size:24px;font-weight:500;fill:#58a6ff">Wishing you a joyful life</text><style>
+  @keyframes l2 {
+    0%, 66.67% { opacity: 0; transform: translateY(8px); }
+    70.67%, 96.00% { opacity: 1; transform: translateY(0); }
+    100.00%, 100% { opacity: 0; transform: translateY(-8px); }
+  }
+  .l2 { opacity: 0; animation: l2 9.0s ease-in-out infinite; }
+</style>
+<text class="l2" x="300" y="44" text-anchor="middle" style="font-family:'Fira Code',Consolas,monospace;font-size:24px;font-weight:500;fill:#58a6ff">and lots of flow when you code.</text>
+</svg>

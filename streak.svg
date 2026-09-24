@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="195" viewBox="0 0 680 195" role="img" aria-label="Contribution streak">
+<title>Contribution streak</title>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+  .title { font-size: 18px; font-weight: 600; fill: #2f81f7; }
+  .label { font-size: 14px; fill: #1f2328; }
+  .value { font-size: 14px; font-weight: 700; fill: #1f2328; }
+  .muted { font-size: 12px; fill: #656d76; }
+  .fade { opacity: 0; animation: fadein .6s ease-out forwards; }
+  @keyframes fadein { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="679" height="194" rx="6" fill="#ffffff"/>
+<text class="fade" x="115" y="82" text-anchor="middle" style="animation-delay:150ms;font-size:28px;font-weight:700;fill:#1f2328">798</text>
+<text class="fade label" x="115" y="140" text-anchor="middle" style="animation-delay:150ms;">Total Contributions</text>
+<text class="fade muted" x="115" y="165" text-anchor="middle" style="animation-delay:150ms;">Since 2016-01-01</text>
+<text class="fade" x="340" y="82" text-anchor="middle" style="animation-delay:300ms;font-size:28px;font-weight:700;fill:#1f2328">0</text>
+<circle cx="340" cy="72" r="40" fill="none" stroke="#fb8c00" stroke-width="5"/><text class="fade" x="340" y="140" text-anchor="middle" style="animation-delay:300ms;font-size:14px;font-weight:700;fill:#fb8c00">Current Streak</text>
+<text class="fade muted" x="340" y="165" text-anchor="middle" style="animation-delay:300ms;">days in a row</text>
+<text class="fade" x="565" y="82" text-anchor="middle" style="animation-delay:450ms;font-size:28px;font-weight:700;fill:#1f2328">6</text>
+<text class="fade label" x="565" y="140" text-anchor="middle" style="animation-delay:450ms;">Longest Streak</text>
+<text class="fade muted" x="565" y="165" text-anchor="middle" style="animation-delay:450ms;">days</text>
+<line x1="227" y1="30" x2="227" y2="165" stroke="#eaeef2" stroke-width="1"/>
+<line x1="452" y1="30" x2="452" y2="165" stroke="#eaeef2" stroke-width="1"/>
+</svg>
