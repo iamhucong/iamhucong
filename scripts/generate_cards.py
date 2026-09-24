@@ -45,6 +45,7 @@ query($login: String!) {
     repositories(ownerAffiliations: OWNER, isFork: false, first: 100,
                  orderBy: {field: PUSHED_AT, direction: DESC}) {
       nodes {
+        name
         stargazerCount
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name color } }
@@ -132,9 +133,11 @@ def streaks(days, today):
     return total, current, longest
 
 
-def languages(repos, limit=8):
+def languages(repos, login, limit=8):
     sizes, colors = {}, {}
     for repo in repos:
+        if repo.get("name", "").lower() == login.lower():
+            continue  # Skip this profile repo's own tooling.
         for edge in repo["languages"]["edges"]:
             name = edge["node"]["name"]
             if name.lower() in HIDDEN_LANGS:
@@ -206,7 +209,7 @@ def stats_card(data, t):
 
 
 def langs_card(data, t):
-    langs = languages(data["profile"]["repositories"]["nodes"])
+    langs = languages(data["profile"]["repositories"]["nodes"], data["profile"]["login"])
     width = 340
     body = [f'<text x="25" y="35" class="title">Most Used Languages</text>']
     if not langs:

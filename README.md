@@ -26,10 +26,6 @@ Ideas for an "About me" section — uncomment and fill in the ones you like:
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamhucong/iamhucong/output/stats-dark.svg" />
   <img height="170" src="https://raw.githubusercontent.com/iamhucong/iamhucong/output/stats.svg" alt="GitHub stats" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamhucong/iamhucong/output/langs-dark.svg" />
-  <img height="170" src="https://raw.githubusercontent.com/iamhucong/iamhucong/output/langs.svg" alt="Most used languages" />
-</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamhucong/iamhucong/output/streak-dark.svg" />
